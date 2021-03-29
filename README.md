@@ -1,1 +1,2 @@
-# unsocial-app-test
+# unsocial-app
+GitHub repository for the social media app Unsocial
